@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for telegram-bot-u2vc-q on 2026-01-04T20:46:44Z
+# fly.toml app configuration file generated for telegram-bot-ahcjaw on 2026-01-05T16:05:04Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'telegram-bot-u2vc-q'
+app = 'telegram-bot-ahcjaw'
 primary_region = 'fra'
 
 [build]
